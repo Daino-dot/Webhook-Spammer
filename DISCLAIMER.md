@@ -5,7 +5,7 @@ This software is provided "as is", without warranty of any kind, express or impl
 ## Intended Use
 This tool is intended for educational purposes only. It is designed to demonstrate how webhooks work and should not be used to spam, harass, or harm others.
 
-## Legal Notice
+## Legal Noticea
 By using this software, you agree to the following:
 - You will not use this tool for malicious purposes.
 - You are solely responsible for any consequences resulting from the use of this tool.
