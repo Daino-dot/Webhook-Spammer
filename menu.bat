@@ -7,7 +7,7 @@ mode con: cols=60 lines=25
 cls
 echo.
 echo    ==============================================
-echo    WEBHOOK SPAMMER v1.3 - Made with ❤️ by Daino
+echo    WEBHOOK SPAMMER v1.3 - Made by Daino
 echo    ==============================================
 echo.
 echo    1. Start webhook attack
