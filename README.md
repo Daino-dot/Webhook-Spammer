@@ -27,4 +27,4 @@ For questions or support, join our Discord server:
 # Disclaimer
 *This tool is for educational purposes only. Misuse of this tool to spam or harass others is strictly prohibited. The developer is not responsible for any misuse or damage caused by this tool.*
 
-** Read [DISCLAIMER.md](https://github.com/Daino-dot/Webhook-Spammer/blob/main/DISCLAIMER.md) before using this tool.**
+**Read [DISCLAIMER.md](https://github.com/Daino-dot/Webhook-Spammer/blob/main/DISCLAIMER.md) before using this tool.**
