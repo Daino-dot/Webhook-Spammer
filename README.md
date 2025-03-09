@@ -8,7 +8,7 @@ Disclaimer: This tool is for educational purposes only. Misuse of this tool to s
 
 github.com/Daino-dot
 dc   $  daino_daino
-srv  $  https://discord.gg/y92sn3EsWR
+srv  $  discord.gg/y92sn3EsWR
 
 # How to Use
 1. Edit the Webhook: Open the `.bat` file and configure the webhook URL, message, number of messages, and delay time.
